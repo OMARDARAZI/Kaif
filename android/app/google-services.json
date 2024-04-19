@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872186601799",
+    "project_id": "webview-2553b",
+    "storage_bucket": "webview-2553b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872186601799:android:a1cd3e6d97474c3dabec62",
+        "android_client_info": {
+          "package_name": "com.example.webview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHR663GEsUV-AK0Tb0MsSRZXcVoxbDCG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
