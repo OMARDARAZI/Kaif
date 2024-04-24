@@ -41,6 +41,10 @@ dependencies:
   firebase_messaging:
   firebase_core:
   url_launcher:
+  permission_handler:
+  fl_webview:
+  
+
 
 
 dev_dependencies:
