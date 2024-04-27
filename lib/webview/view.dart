@@ -67,7 +67,7 @@ class _WebViewStackState extends State<WebViewStack> {
                     delegate: FlWebViewDelegate(
                       onPageStarted: (controller, url) {
                         if(url!.contains('whatsapp://')){
-                          controller.loadUrl(LoadUrlRequest('https://trustotech.site/demo/Kaif.sa/'));
+                          controller.loadUrl(LoadUrlRequest('https://http://www.talabio.com'));
                           logic.launchURL(url);
                           log(controller.getTitle().toString());
                         }
@@ -96,7 +96,7 @@ class _WebViewStackState extends State<WebViewStack> {
                       },
                     ),
                     load:
-                        LoadUrlRequest('https://trustotech.site/demo/Kaif.sa'),
+                        LoadUrlRequest('https://www.talabio.com'),
                     progressBar: FlProgressBar(color: Colors.red),
                     webSettings: WebSettings(),
                     onWebViewCreated: (FlWebViewController controller) async {
