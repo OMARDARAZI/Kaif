@@ -5,7 +5,7 @@
     <!-- Permission for approximate location -->
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <application
-        android:label="Kaif"
+        android:label="Talabio"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

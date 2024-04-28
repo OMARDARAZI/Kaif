@@ -48,16 +48,18 @@ dependencies:
 
 
 dev_dependencies:
+  change_app_package_name:
   flutter_test:
     sdk: flutter
     
 icons_launcher:
-  image_path: 'images/logo.png'
+  image_path: 'images/talabio.png'
   platforms:
     android:
       enable: true
     ios:
       enable: true
+
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
